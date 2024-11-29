@@ -28,4 +28,3 @@ todoForm.addEventListener('submit', function (e) {
   // Clear the input field
   todoInput.value = '';
 });
-
